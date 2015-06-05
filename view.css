@@ -1,0 +1,46 @@
+h1 {
+	font-size: 24px;
+	text-align: center;
+}
+
+body{
+	background-color: rgba(201, 209, 210, 0.3);
+	padding: 30px;
+}
+
+.container {
+	margin: 20px 70px 20px 70px;
+	width: 80%;
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	padding: 10px;
+}
+
+.comment {
+	margin: 20px 70px 20px 70px;
+	background-color: rgba(183, 243, 255, 0.4);
+	width: 40%;
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	padding: 10px;
+}
+
+li {
+	padding: 20px 0px;
+}
+
+table {
+	width: 100%;
+	text-align: center;
+}
+
+th {
+	padding: 10px 0px;
+	border-bottom: 1px solid;
+}
+
+td {
+	padding: 10px 0px;
+}
